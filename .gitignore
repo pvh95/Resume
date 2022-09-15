@@ -1,2 +1,7 @@
 # Ignoring Mac system file
 .DS_Store
+
+#Ignoring files 
+
+#Ignoring folders
+other_resumes/*
